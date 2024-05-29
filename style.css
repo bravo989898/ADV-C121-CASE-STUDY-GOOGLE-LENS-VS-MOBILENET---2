@@ -1,0 +1,99 @@
+body{
+    background-size: cover;
+}
+
+.heading_div
+{
+    float:none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 30px grey inset;
+    color: black;
+}
+
+.btn_div
+{
+    font-size: 20px;
+}
+
+.header
+{
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    color: white;
+    font-family: "outfit", sans-serif;
+    margin: 0;
+    padding: 15px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+#versus{
+    color: red;
+}
+
+.output_tst_img
+{
+    left: 2%;
+    margin-top: 30px;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    font-family: "outfit", sans-serif;
+    box-shadow:5px 5px 40px white;
+    width: 90%;
+    
+}
+
+ol{
+    list-style-position: inside; 
+    list-style-type: none;
+}
+
+h5{
+    background-color: black;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+b{
+    color: yellow;
+    font-weight: bolder;
+}
+
+label{
+    font-size: 35px;
+}
+
+span
+{
+    white-space: pre-line;
+    color: red;
+}
+
+.copy_right_footer{
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    background-color: grey;
+    text-align: center;
+  }
+
+  .conclusion
+  {
+    background-color: bisque;
+    border: solid 2px black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 70px;
+    width: 50%;
+    margin-top: 20px;
+    left: 20%;
+  }
